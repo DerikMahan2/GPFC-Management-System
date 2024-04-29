@@ -49,3 +49,6 @@ The GPFC Management System is designed for the Gregory Portland Futbal Club to m
 - **Data Integrity:** Ensure all data entries adhere to defined formats and constraints (no negative ages, valid team associations).
 - **User Interface:** Scaffold basic CRUD operations for Teams, Players, and Matches. Extend as project scope allows.
 - **Enhanced Features:** Implement paging and sorting for player listings due to potentially large data volume.
+
+## Entity-Relationship Diagram (ERD)
+![ER Diagram](./Images/diagram.png)
