@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "cviDq954ZrlH+e/SvU8WgbEhggctIR8hwyGQJ9kcy36R0/elOFEi9JbRNgFaBb+TnVs8zg9CCK2oEQwI0mRWNQ==",
+  "dgSpecHash": "TfPOII1AAE+J8+Jdyr2c1NF9bQXdEngBteHsQffq+dvPnYxmYOoi6sRzEXN/ABBfHsrVcEGk2ivEENGSIVNSZQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Derik\\OneDrive\\Desktop\\School\\WT\\CDIM 3312\\GPFC-Management-System\\GPFC-Management-System.csproj",
   "expectedPackageFiles": [
@@ -56,6 +56,8 @@
     "C:\\Users\\Derik\\.nuget\\packages\\humanizer.core.zh-cn\\2.14.1\\humanizer.core.zh-cn.2.14.1.nupkg.sha512",
     "C:\\Users\\Derik\\.nuget\\packages\\humanizer.core.zh-hans\\2.14.1\\humanizer.core.zh-hans.2.14.1.nupkg.sha512",
     "C:\\Users\\Derik\\.nuget\\packages\\humanizer.core.zh-hant\\2.14.1\\humanizer.core.zh-hant.2.14.1.nupkg.sha512",
+    "C:\\Users\\Derik\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\6.0.0\\microsoft.aspnetcore.mvc.razor.extensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Derik\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\8.0.4\\microsoft.aspnetcore.mvc.razor.runtimecompilation.8.0.4.nupkg.sha512",
     "C:\\Users\\Derik\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.24\\microsoft.aspnetcore.razor.language.6.0.24.nupkg.sha512",
     "C:\\Users\\Derik\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
     "C:\\Users\\Derik\\.nuget\\packages\\microsoft.build\\17.8.3\\microsoft.build.17.8.3.nupkg.sha512",
@@ -85,6 +87,7 @@
     "C:\\Users\\Derik\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\8.0.4\\microsoft.entityframeworkcore.sqlite.8.0.4.nupkg.sha512",
     "C:\\Users\\Derik\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\8.0.4\\microsoft.entityframeworkcore.sqlite.core.8.0.4.nupkg.sha512",
     "C:\\Users\\Derik\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\8.0.4\\microsoft.entityframeworkcore.sqlserver.8.0.4.nupkg.sha512",
+    "C:\\Users\\Derik\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\8.0.4\\microsoft.entityframeworkcore.tools.8.0.4.nupkg.sha512",
     "C:\\Users\\Derik\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\Derik\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0\\microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
     "C:\\Users\\Derik\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",

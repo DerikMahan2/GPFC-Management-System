@@ -25,8 +25,8 @@ namespace GPFCManagementSystem.Models
                     new Team { TeamName = "U10 Boys Team B", CoachName = "Jason Rivera", Division = "U10" },
                     new Team { TeamName = "U10 Girls Team A", CoachName = "Sarah Parker", Division = "U10" },
                     new Team { TeamName = "U10 Girls Team B", CoachName = "Jessica Nguyen", Division = "U10" },
-                    new Team { TeamName = "U12 Boys Team", CoachName = "Coach Robert Lee", Division = "U12" },
-                    new Team { TeamName = "U12 Girls Team", CoachName = "Coach Linda Kim", Division = "U12" }
+                    new Team { TeamName = "U12 Boys Team", CoachName = "Robert Lee", Division = "U12" },
+                    new Team { TeamName = "U12 Girls Team", CoachName = "Linda Kim", Division = "U12" }
                 };
                 context.Teams.AddRange(teams);
                 context.SaveChanges();

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GPFC-Management-System")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0c59be22704d1ad9cd5b154db36d9c804637dcd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee1bb58cca237b2f645cf5f13504aea354616148")]
 [assembly: System.Reflection.AssemblyProductAttribute("GPFC-Management-System")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GPFC-Management-System")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
