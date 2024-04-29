@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GPFC-Management-System.props" />
+</Project>
